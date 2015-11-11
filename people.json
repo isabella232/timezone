@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ed",
+    "avatar": "https://s3.amazonaws.com/engage.internal.intercom.io/images/231-c5c831e6-fa81-4bc7-a689-56adba802319.jpg",
+    "city": "Dorset, UK",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "Jeff",
+    "avatar": "https://s3.amazonaws.com/engage.internal.intercom.io/images/50-42cc11a1-7f89-40e5-ae33-ffb2b20997de.jpg",
+    "city": "Chiavenna, Italy",
+    "tz": "Europe/Rome"
+  },
+  {
+    "name": "Skyler",
+    "avatar": "https://s3.amazonaws.com/engage.internal.intercom.io/images/151-de06aac2-6854-4428-99da-d1002ac4dc2e.jpg",
+    "city": "Nairobi, Kenya",
+    "tz": "Africa/Nairobi"
+  },
+  {
+    "name": "Matthew",
+    "avatar": "https://s3.amazonaws.com/engage.internal.intercom.io/images/187-084d2377-28d2-49d5-9826-3ceec82a4cf2.jpg",
+    "city": "Chicago, USA",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Tim",
+    "avatar": "https://s3.amazonaws.com/engage.internal.intercom.io/images/237-dc988444-de60-4353-abee-ef3a64a66217.jpg",
+    "city": "Brunei",
+    "tz": "Asia/Brunei"
+  }
+]
